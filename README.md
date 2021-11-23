@@ -1,4 +1,4 @@
-Hi, I’m Anaya Mubashshir. I am pursuing B.Tech in CSE from Integral University
+Hi, My name is Anaya Mubashshir. I am pursuing B.Tech in CSE from Integral University, A learning entusiast interested to gain knowledge in new edge technowledges
 -
 <!---
 AnayaMubashshir/AnayaMubashshir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
